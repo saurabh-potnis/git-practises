@@ -1,5 +1,5 @@
 import math
 def gcd(x,y):
-  return gcd(x,y)
+   return math.gcd(x,y)
+print(gcd(19,10))
 
-print(gcd(20,10)
